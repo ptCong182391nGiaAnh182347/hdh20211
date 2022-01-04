@@ -1,3 +1,4 @@
+/*Pham Thanh Cong - 20182391*/
 #ifndef THREADS_THREAD_H
 #define THREADS_THREAD_H
 
