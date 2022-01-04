@@ -1,3 +1,4 @@
+/*Pham Thanh Cong - 20182391*/
 #include "devices/timer.h"
 #include <debug.h>
 #include <inttypes.h>
