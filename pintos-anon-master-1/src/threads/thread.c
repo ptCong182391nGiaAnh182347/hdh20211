@@ -1,3 +1,4 @@
+/* Pham Thanh Cong - 20182391*/
 #include "threads/thread.h"
 #include <debug.h>
 #include <stddef.h>
